@@ -57,6 +57,8 @@
       'browser/notification_presenter.h',
       'browser/notification_presenter_mac.h',
       'browser/notification_presenter_mac.mm',
+      'browser/notification_presenter_win.h',
+      'browser/notification_presenter_win.cc',
       'browser/permission_manager.cc',
       'browser/permission_manager.h',
       'browser/platform_notification_service_impl.cc',
